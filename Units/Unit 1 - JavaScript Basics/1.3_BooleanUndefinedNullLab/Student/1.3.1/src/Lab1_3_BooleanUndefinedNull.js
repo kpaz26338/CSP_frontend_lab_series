@@ -12,7 +12,7 @@
 
 // TODO 3: Undefined
 // - Declare variable grade and print it
-
+let grade;
 // TODO 4: Null
 // - Create city = null, print it
 // - Reassign city = "Miami" and print again
